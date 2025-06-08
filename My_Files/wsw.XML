@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ROWDATA type="Bank_Application_LOAN_PP">
+  <ReqID>{cd810e98-3322-4f64-b4bf-c1446006e403}</ReqID>
+  <AppNumber>app</AppNumber>
+  <DateTime>19/05/2025 11:29:23</DateTime>
+  <SID>s8j0rbgtgf5s92idofla71a6kj</SID>
+  <ReportType>02</ReportType>
+  <PARTICIPIENT id="130987">
+    <KindBorrower>1</KindBorrower>
+    <FirstName>Սամվել</FirstName>
+    <LastName>Հասոյան</LastName>
+    <DateofBirth>01-12-1971</DateofBirth>
+    <PassportNumber>AU0407354</PassportNumber>
+    <SocCardNumber>1112710388</SocCardNumber>
+    <IdCardNumber />
+    <RequestTarget>1</RequestTarget>
+    <UsageRange>1</UsageRange>
+    <FirmName />
+  </PARTICIPIENT>
+</ROWDATA>
